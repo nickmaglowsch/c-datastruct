@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1488551251 source:c:\users\lab6\documents\pilha sequencial\main.cpp
+	<iostream>
+	<math.h>
+	"pilha.h"
+	<stdlib.h>
+
+1488550490 c:\users\lab6\documents\pilha sequencial\pilha.h
+	<string>
+
+1489001720 source:c:\users\fjnicky\google drive\estrutura de dados\pilha sequencial\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"pilha.h"
+	<stdlib.h>
+	<string>
+
+1488999147 c:\users\fjnicky\google drive\estrutura de dados\pilha sequencial\pilha.h
+	<string>
+
